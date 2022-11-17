@@ -1,0 +1,13 @@
+x=======================================================================x
+|				NHOM 5					|
+x=======================================================================x
+|	    								|
+|	    DE TAI 705: Mo phong bai toan to mau ban do 		|
+|	     	        bang to mau cac dinh cua do thi			|
+|	    Sinh vien:  Pham Tien Huu					|
+|			Tran Nhat Minh					|
+|	    GVHD: 	Tran Ho Thuy Tien				|
+|									|
+x=======================================================================x	
+		      
+		       Press Enter to continue...
